@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tienda.xsl" type="text/xsl"?>
+    <tienda>
+        <producto id="1">
+            <nombre>Teclado mecanico</nombre>
+            <precio moneda="MXN">125.00</precio>
+            <peso medida="kg">0.400</peso>
+            <marca>Razer</marca>
+        </producto>
+
+        <producto id="2">
+            <nombre>Mouse inalambrico</nombre>
+            <precio moneda="MXN">350.00</precio>
+            <peso medida="kg">0.050</peso>
+            <marca>Razer</marca>
+        </producto>
+
+        <producto id="3">
+            <nombre>Microfono inalambrico</nombre>
+            <precio moneda="MXN">450.00</precio>
+            <peso medida="kg">1.200</peso>
+            <marca>Shure</marca>
+        </producto>
+
+        <producto id="4">
+            <nombre>Monitor</nombre>
+            <precio moneda="MXN">750.00</precio>
+            <peso medida="kg">0.800</peso>
+            <marca>Samsung</marca>
+        </producto>
+
+        <producto id="5">
+            <nombre>Mouse Pad</nombre>
+            <precio moneda="MXN">50.00</precio>
+            <peso medida="kg">0.100</peso>
+            <marca>Generica</marca>
+        </producto>
+
+        <producto id="6">
+            <nombre>Audifonos alambricos</nombre>
+            <precio moneda="MXN">100.00</precio>
+            <peso medida="kg">0.100</peso>
+            <marca>Generica</marca>
+        </producto>
+
+        <producto id="7">
+            <nombre>Audifonos Inalambricos</nombre>
+            <precio moneda="MXN">350.00</precio>
+            <peso medida="kg">0.200</peso>
+            <marca>Samsung</marca>
+        </producto>
+
+        <producto id="8">
+            <nombre>Memoria USB</nombre>
+            <precio moneda="MXN">150.00</precio>
+            <peso medida="kg">0.020</peso>
+            <marca>ADATA</marca>
+        </producto>
+
+        <producto id="9">
+            <nombre>Memoria microSD</nombre>
+            <precio moneda="MXN">200.00</precio>
+            <peso medida="kg">0.020</peso>
+            <marca>ADATA</marca>
+        </producto>
+
+        <producto id="10">
+            <nombre>Memoria SSD</nombre>
+            <precio moneda="MXN">1800.00</precio>
+            <peso medida="kg">0.090</peso>
+            <marca>Kingston</marca>
+        </producto>
+
+        <producto id="11">
+            <nombre>Memoria RAM</nombre>
+            <precio moneda="MXN">2000.00</precio>
+            <peso medida="kg">0.100</peso>
+            <marca>Corsair</marca>
+        </producto>
+
+        <producto id="12">
+            <nombre>Laptop</nombre>
+            <precio moneda="MXN">12000.00</precio>
+            <peso medida="kg">1.500</peso>
+            <marca>HP</marca>
+        </producto>
+
+        <producto id="13">
+            <nombre>Mouse alambrico</nombre>
+            <precio moneda="MXN">120.00</precio>
+            <peso medida="kg">0.200</peso>
+            <marca>Generica</marca>
+        </producto>
+
+        <producto id="14">
+            <nombre>Cargador tipo C</nombre>
+            <precio moneda="MXN">100.00</precio>
+            <peso medida="kg">0.100</peso>
+            <marca>Generica</marca>
+        </producto>
+
+        <producto id="15">
+            <nombre>Cargador tipo C</nombre>
+            <precio moneda="MXN">580.00</precio>
+            <peso medida="kg">0.100</peso>
+            <marca>Apple</marca>
+        </producto>
+
+        <producto id="16">
+            <nombre>Chocolate Hershey</nombre>
+            <precio moneda="MXN">30.00</precio>
+            <peso medida="kg">0.250</peso>
+            <marca>Hershey</marca>
+        </producto>
+
+        <producto id="17">
+            <nombre>Paleta de la Rosa</nombre>
+            <precio moneda="MXN">5.00</precio>
+            <peso medida="kg">0.050</peso>
+            <marca>De la Rosa</marca>
+        </producto>
+
+        <producto id="19">
+            <nombre>Chocolate KitKat</nombre>
+            <precio moneda="MXN">35.00</precio>
+            <peso medida="kg">0.080</peso>
+            <marca>Nestle</marca>
+        </producto>
+
+         <producto id="20">
+            <nombre>Panditas</nombre>
+            <precio moneda="MXN">18.00</precio>
+            <peso medida="kg">0.080</peso>
+            <marca>Ricolino</marca>
+        </producto>
+    </tienda>
